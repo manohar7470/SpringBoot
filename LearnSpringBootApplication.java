@@ -1,5 +1,6 @@
 package com.code.springboot.learnspringboot;
 //http://localhost:9090/courses
+//file inside main java package - getter setter method
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
