@@ -1,5 +1,5 @@
 package com.code.springboot.learnspringboot;
-
+//file inside main java package - getter setter method
 import java.util.Arrays;
 import java.util.List;
 
