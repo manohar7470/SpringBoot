@@ -1,5 +1,5 @@
 package com.code.springboot.learnspringboot;
-
+//file inside main java package
 public class Course {
 	private long id;
 	private String name;
